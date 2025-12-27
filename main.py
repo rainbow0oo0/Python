@@ -12,13 +12,6 @@ print(n % m)
 print(m % n)
 print(m - n)
 
-"""
-==	같다 포함
-!=	같지 않다 제외
-+=	더해서 저장	누적
-%	나머지 배수 판별
-"""
-
 total = 0
 
 for i in range(1, 7):
